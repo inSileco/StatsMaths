@@ -4,10 +4,7 @@ Title: Does not matter.
 Version: 0.0.1
 Imports:
   bookdown,
-  deSolve,
-  graphicsutils,
-  latex2exp,
-  odeintr
+  graphicsutils
 Remotes:
   rstudio/bookdown,
   inSileco/graphicsutils
