@@ -8,6 +8,10 @@ before_script:
 script:
   - ./_build.sh
 
+notifications:
+  slack:
+      rooms: insileco:bSFo4jHeKnaM4WobzJJ8DTPj
+
 deploy:
   provider: pages
   skip_cleanup: true
