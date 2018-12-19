@@ -1,17 +1,32 @@
 # Introduction {#intro}
 
-Outline - let's keep it simple first and flesh out latter.
+Outline - let's keep it simple for now and flesh out latter.
 
 ## Probability few concepts
 
-## Inference & Causality
+- history (time line)
+- distribution discrete/continuous
+- finding the right probability
+- moments
+- compendium: https://www.causascientia.org/math_stat/Dists/Compendium.pdf
 
-## Likelihood & Bayes theorem
+## Inference & Causality - Likelihood & Bayes theorem
+
+- How probabilities are used to say something about events/data?
+- estimators
+- Likelihood and optimization
+- Cause consequence in Bayes's theorem
+- Causality and inference?
 
 
 ## Writing your own Linear Model
 
+- The simplest version
+- Generalization
+
+
 ## Writing your own Gibbs sampler
+
 
 ## Writing your own SEM function
 
