@@ -1,3 +1,9 @@
+# Other
+
+tmp/
+_book/
+
+
 # History files
 .Rhistory
 .Rapp.history

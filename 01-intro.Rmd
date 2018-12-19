@@ -1,0 +1,20 @@
+# Introduction {#intro}
+
+Outline - let's keep it simple first and flesh out latter.
+
+## Probability few concepts
+
+## Inference & Causality
+
+## Likelihood & Bayes theorem
+
+
+## Writing your own Linear Model
+
+## Writing your own Gibbs sampler
+
+## Writing your own SEM function
+
+
+
+# References

@@ -1,0 +1,40 @@
+---
+title: "Stats and Maths"
+author: "Kevin Cazelles"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: inSileco/StatsMaths
+description: "Notebook to better understand Statistics via Mathemtics."
+---
+
+
+# Prerequisites {-}
+
+This book was generated using [bookdown](https://bookdown.org/yihui/bookdown/) [@xie2015],
+Yinhui Xie did an amazing job to document his work and to provide a very helpful
+minimal example at https://github.com/rstudio/bookdown-demo.
+
+
+
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+```
+
+```{r setup, echo = F}
+knitr::opts_chunk$set(
+  comment = "#>",
+  fig.align = "center",
+  collapse = TRUE,
+  warning = FALSE,
+  message = FALSE
+)
+```
